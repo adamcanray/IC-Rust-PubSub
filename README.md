@@ -1,5 +1,7 @@
 # Internet Computer Pub/Sub
 
+Pub/Sub with [Rust Canister Development Kit](https://github.com/dfinity/cdk-rs). This example demonstrates how functions may be passed as arguments of inter-canister calls to be used as callbacks.
+
 ## Overview
 
 This sample project demonstrates how functions may be passed as arguments of inter-canister calls to be used as callbacks.
